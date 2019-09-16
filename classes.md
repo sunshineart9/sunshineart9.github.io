@@ -21,3 +21,6 @@ src="/assets/images/student_life/IMG_4601.JPG" width="350">
 <img src="/assets/images/student_life/studentart1.JPG" width="350">
 <img src="/assets/images/student_life/IMG_4606.JPG" width="350">
 <img src="/assets/images/student_life/studentart3.JPG" width="350">
+<img src="/assets/images/student_life/studentlife1.JPG" width="350">
+<img src="/assets/images/student_life/studentlife2.JPG" width="350">
+<img src="/assets/images/student_life/studentlife3.JPG" width="350">
